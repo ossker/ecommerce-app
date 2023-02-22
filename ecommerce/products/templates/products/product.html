@@ -1,0 +1,11 @@
+{% extends 'products/template.html' %}
+{% block product %}
+    {% if product %}
+        <h1>{{ product.name }}</h1>
+        <p>{{ product.manufacturer }}</p>
+        <p>{{ product.description }}</p>
+        <p>{{ product.prize }}</p>
+    {% else %}
+        <p>Nothing to display :(</p>
+    {% endif %}
+{% endblock product %}
