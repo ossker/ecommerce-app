@@ -1,11 +1,9 @@
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 
-from products.views import *
+from store.views import *
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', index, name='index'),
-    path('category/<id>/', category, name='category'),
-    path('product/<id>/', product, name='product'),
+    path('', include('store.urls')),
 ]
