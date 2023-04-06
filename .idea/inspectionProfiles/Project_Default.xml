@@ -12,6 +12,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="MLP" />
+          <option value="django.blog_api.views.*" />
         </list>
       </option>
     </inspection_tool>
