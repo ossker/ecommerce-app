@@ -4,15 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="Project and app initialized.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="Pillow installed." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -69,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680808596093</updated>
-      <workItem from="1680808597670" duration="1226000" />
+      <workItem from="1680808597670" duration="2150000" />
     </task>
     <task id="LOCAL-00001" summary="Project cleaned.">
       <created>1680808859258</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680809233188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pillow installed.">
+      <created>1680813693562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680813693562</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +122,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project cleaned." />
     <MESSAGE value="Project and app initialized." />
-    <option name="LAST_COMMIT_MESSAGE" value="Project and app initialized." />
+    <MESSAGE value="Category and Product models created." />
+    <MESSAGE value="Pillow installed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pillow installed." />
   </component>
 </project>
