@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="Project cleaned." />
+    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="Pillow installed." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2O48fATzArgyFz06yJaKznTXgi7" />
   <component name="ProjectViewState">
@@ -61,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680808596093</updated>
-      <workItem from="1680808597670" duration="463000" />
+      <workItem from="1680808597670" duration="2150000" />
     </task>
     <task id="LOCAL-00001" summary="Project cleaned.">
       <created>1680808859258</created>
@@ -70,7 +81,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680808859258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Project and app initialized.">
+      <created>1680809218904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680809218904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project and app initialized.">
+      <created>1680809233188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680809233188</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Pillow installed.">
+      <created>1680813693562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680813693562</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +121,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project cleaned." />
-    <option name="LAST_COMMIT_MESSAGE" value="Project cleaned." />
+    <MESSAGE value="Project and app initialized." />
+    <MESSAGE value="Category and Product models created." />
+    <MESSAGE value="Pillow installed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pillow installed." />
   </component>
 </project>
