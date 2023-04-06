@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django-store.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.idea/ecommerce.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/ecommerce/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/arrow-down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/arrow-up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/cart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/static/images/placeholder.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/migrations/0002_manufacturer_alter_product_options_and_more.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/migrations/0003_category_product_category.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/templates/store/cart.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/templates/store/checkout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/templates/store/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/templates/store/store.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/store/views.py" beforeDir="false" />
-    </list>
+    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="Project cleaned." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +21,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/oskar/PycharmProjects/django-store",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -99,11 +61,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680808596093</updated>
-      <workItem from="1680808597670" duration="83000" />
+      <workItem from="1680808597670" duration="463000" />
     </task>
+    <task id="LOCAL-00001" summary="Project cleaned.">
+      <created>1680808859258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680808859258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project cleaned." />
+    <option name="LAST_COMMIT_MESSAGE" value="Project cleaned." />
   </component>
 </project>
