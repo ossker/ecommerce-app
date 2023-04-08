@@ -128,3 +128,6 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 
 CART_SESSION_ID = 'cart'
+
+# alternatywa serwera SMTP
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
