@@ -146,3 +146,5 @@ BRAINTREE_CONF = braintree.Configuration.configure(braintree.Environment.Sandbox
     private_key=BRAINTREE_PRIVATE_KEY)
 
 CELERY_TASK_ALWAYS_EAGER = True
+
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
