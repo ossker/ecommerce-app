@@ -4,154 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="Generating a bill to PDF made.">
-      <change afterPath="$PROJECT_DIR$/myshop/media/products/2023/04/06/herbata_czarna.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/media/products/2023/04/06/zielona_herbata.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myshop/products/2023/04/06/zielona_herbata.jpg" afterDir="false" />
+    <list default="true" id="3f8a3d6c-727e-47e0-8669-dcb87be5af8b" name="Changes" comment="Preparation of the project for internationalization.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/REQUESTED" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/WeasyPrint-51.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/INSTALLER" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/INSTALLER" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/WHEEL" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/WHEEL" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi-1.5.0.dist-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/constants.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/context.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/context.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/ffi_build.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/ffi_build.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/fonts.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/fonts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/patterns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/pixbuf.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/pixbuf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/surfaces.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/surfaces.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_cairo.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_cairo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_numpy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_pixbuf.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_pixbuf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_xcb.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/test_xcb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/xcb.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/myshop/Lib/site-packages/cairocffi/xcb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/VERSION" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/computed_values.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/html5_ph.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/html5_ua.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/media_queries.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/properties.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/targets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/tests_ua.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/validation/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/validation/descriptors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/validation/expanders.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/css/validation/properties.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/document.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/draw.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/fonts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/formatting_structure/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/formatting_structure/boxes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/formatting_structure/build.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/formatting_structure/counters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/html.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/images.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/absolute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/backgrounds.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/blocks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/columns.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/flex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/float.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/inlines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/markers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/min_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/pages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/percentages.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/preferred.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/replaced.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/layout/tables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/pdf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/stacking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/AHEM____.TTF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/acid2-reference.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/acid2-test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/blue.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/doc1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/doc1_UTF-16BE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/latin1-test.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/logo_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/mini_ua.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/pattern.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/pattern.palette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/pattern.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/really-a-png.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/really-a-svg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/sheet2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/sub_directory/sheet1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/user.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/utf8-test.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/resources/weasyprint.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_acid2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_api.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_boxes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_css.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_css_descriptors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_css_validation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_background.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_before_after.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_box.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_column.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_current_color.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_gradient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_image.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_opacity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_overflow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_transform.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_draw/test_visibility.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_float.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_fonts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_block.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_column.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_flex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_image.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_inline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_inline_block.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_position.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_shrink_to_fit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_layout/test_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_pdf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_presentational_hints.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_stacking.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_tools.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_unicode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/test_variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tests/testing_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tools/navigator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/tools/renderer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Lib/site-packages/weasyprint/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/myshop/Scripts/weasyprint.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +67,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\oskar\PycharmProjects\django-store" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="django-store" />
